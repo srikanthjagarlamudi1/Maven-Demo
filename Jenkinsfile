@@ -14,7 +14,7 @@ pipeline {
     
         stage('Deployment') {
             steps {
-                sh 'cp -r "C:\\Program Files (x86)\\Jenkins\\workspace\\pipelinedemo\\multi-module\\webapp\\target\\webapp.war" "C:\\Program Files\\Apache Software Foundation\\Tomcat 8.5_Tomcat8-test\\webapps"'
+                 sh 'cp -r "C:\\Program Files (x86)\\Jenkins\\workspace\\sriram pro\\pipe\\multi-module\\webapp\\target\\webapp.war" "C:\\Program Files\\Apache Software Foundation\\Tomcat 8.5_Tomcat8-test\\webapps"'
             }
         }
     }
