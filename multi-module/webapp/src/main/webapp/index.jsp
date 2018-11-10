@@ -1,1 +1,1 @@
-Welcome to Devops World and enjoy the Devops concept!
+Welcome to Devops World !
