@@ -1,1 +1,1 @@
-Welcome to Devops Class !
+Welcome all to Devops Class !
