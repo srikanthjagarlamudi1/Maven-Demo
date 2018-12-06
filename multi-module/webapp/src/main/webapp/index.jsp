@@ -1,1 +1,1 @@
-Welcome all to PIPELINE SECTION !
+Welcome all to Devops Class !
